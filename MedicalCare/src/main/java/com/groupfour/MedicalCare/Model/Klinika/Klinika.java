@@ -3,6 +3,7 @@ package com.groupfour.MedicalCare.Model.Klinika;
 import com.groupfour.MedicalCare.Model.Osoblje.Lekar;
 
 import java.time.LocalDateTime;
+import java.util.List;
 
 public class Klinika {
     private String naziv;

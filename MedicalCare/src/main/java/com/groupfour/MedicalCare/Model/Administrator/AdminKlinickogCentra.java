@@ -3,6 +3,8 @@ package com.groupfour.MedicalCare.Model.Administrator;
 import com.groupfour.MedicalCare.Model.Zahtevi.RegistracijaKorisnika;
 import org.springframework.stereotype.Component;
 
+import java.util.List;
+
 @Component
 public class AdminKlinickogCentra implements IAdmin {
     private List<RegistracijaKorisnika> listaRegistracija;

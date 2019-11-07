@@ -1,7 +1,7 @@
 package com.groupfour.MedicalCare.Model.Osoblje;
 
+import com.groupfour.MedicalCare.Model.Dokumenti.Recept;
 import com.groupfour.MedicalCare.Model.Pacijent.Pacijent;
-import com.groupfour.MedicalCare.Model.Zahtevi.Recept;
 import org.springframework.stereotype.Component;
 
 import java.util.Hashtable;

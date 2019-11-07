@@ -1,8 +1,8 @@
 package com.groupfour.MedicalCare.Model.Pacijent;
 
+import com.groupfour.MedicalCare.Model.Dokumenti.Karton;
 import com.groupfour.MedicalCare.Model.Klinika.Klinika;
 import com.groupfour.MedicalCare.Model.Zahtevi.ITermin;
-import com.groupfour.MedicalCare.Model.Zahtevi.Pregled;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
